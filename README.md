@@ -6,7 +6,7 @@ Twin Peaks has always been my favorite mountain.
 Although it's only a half an hour hike, the view from the top is fantastic.
 On a clear day, you can see all of San Diego.
 
-I felt as though Twin Peaks was an underated gem in my home town, so I made this website to show off its beauty.
+I felt as though Twin Peaks was an underrated gem in my home town, so I made this website to show off its beauty.
 
 ---
 ### The Website

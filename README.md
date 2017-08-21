@@ -10,7 +10,9 @@ I felt as though Twin Peaks was an underrated gem in my home town, so I made thi
 
 ---
 ### The Website
-*Insert info about the website*
+The website consists of a home page and pages about the hike, the wild life, the plants, and how to prepare for the hike.  
+I will continue to add more pictures throughout the website
+in order to clarify information and to get people excited about Twin Peaks Mountain.
 
 ---
 ### Credits

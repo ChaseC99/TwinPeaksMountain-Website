@@ -1,4 +1,7 @@
 /*@import "import-styles.css";*/
+* {
+    box-sizing: border-box;
+}
 
 /* Type Selectors */
 body{
@@ -61,11 +64,18 @@ a :focus {
     background-color: orange;
 }
 
+img{
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
 
 
 /* Class Selectors */
 .main-header {
-    background-color: orange;
+    background: orange url('../img/mountains.jpg') center / cover;
+    padding-top: 170px;
+    height: 850px;
 }
 
 .main-header span {
@@ -118,6 +128,17 @@ a :focus {
 .secondary-content {
     width: 60%;
     margin: 0 20% 0 20%;
+    max-width: 900px;
+}
 
+.secondary-content {
     border-top: 10px solid #ffa949;
+}
+
+.arrow {
+    width: 50px;
+}
+
+.wildlife {
+    background: url('../img/coyote.jpg') no-repeat center / cover;
 }

@@ -19,5 +19,4 @@ in order to clarify information and to get people excited about Twin Peaks Mount
 Created by [Chase Carnaroli](https://www.linkedin.com/in/chase-carnaroli-5ba365141/)  
 Made based off of [Guil Hernandez's](https://codepen.io/Guilh/) *TreeHouse* course "[CSS Basics](https://teamtreehouse.com/library/css-basics)"
 
-All photos on the website are mine and are copyright protected.  
 &copy; 2017 Chase Carnaroli

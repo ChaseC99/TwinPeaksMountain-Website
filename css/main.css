@@ -38,8 +38,8 @@ p {
 }
 
 ul li {
-    background-color: tomato;
-    color: white;
+    color: orange;
+    list-style: none;
     margin-bottom: 5px;
 }
 

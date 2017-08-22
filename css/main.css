@@ -102,7 +102,7 @@ img{
     letter-spacing: 0.065em;
     font-weight: 200;
     border-bottom: 2px solid;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 .copyright {
@@ -167,4 +167,43 @@ img{
 
 .wildlife {
     background: url('../img/coyote.jpg') no-repeat center / cover;
+}
+
+
+/* Media Query */
+@media (max-width: 1024px){
+    .primary-content,
+    .secondary-content {
+        width: 90%;
+        margin: 50px 5% 50px 5%;
+    }
+}
+
+/* fix max-width later */
+@media (max-width: 768px) {
+    .main-header {
+        max-height: 380px;
+        padding: 50px 25px 0;
+    }
+
+    .main-header span {
+        font-size: 1.3rem;
+    }
+
+    h1 {
+        font-size: 5rem;
+        line-height: 1.1;
+    }
+
+    .arrow {
+        display: none;
+    }
+
+    .intro {
+        font-size: 1rem;
+    }
+
+    .main-footer {
+        padding: 20px 0;
+    }
 }

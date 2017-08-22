@@ -1,5 +1,4 @@
-/*@import "import-styles.css";*/
-
+/* Fonts */
 @font-face {
     font-family: 'Abolition Regular';
     src: url('../fonts/abolition-regular-webfont.eot');
@@ -8,11 +7,12 @@
          url('../fonts/abolition-regular-webfont.ttf') format('truetype');
 }
 
+
+/* Type Selectors */
 * {
     box-sizing: border-box;
 }
 
-/* Type Selectors */
 body{
     text-align: center;
     color: #878787;

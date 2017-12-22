@@ -1,6 +1,6 @@
 # TwinPeaksMountain-Website
 A website for Twin Peaks Mountain, located in Poway, California.
-This website is still underconstruction
+This website is still under construction
 
 ### Background
 Twin Peaks has always been my favorite mountain.

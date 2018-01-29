@@ -90,8 +90,8 @@ img{
 
 /* Class Selectors */
 .main-header {
-    background: linear-gradient(orange, transparent 40%), linear-gradient(to top, white, transparent 90%),
-                orange url('../img/mountains.jpg') center / cover;
+    background: linear-gradient(pink, transparent 40%), linear-gradient(to top, white, transparent 90%),
+                pink url('../img/chatAboveTheClouds.jpg') center / cover;
     padding-top: 170px;
     height: 850px;
 }
